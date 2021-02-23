@@ -54,12 +54,16 @@ In this work, we found that WEMs are not completely stable. Out of three three W
 
 # References
 <a id="1">[1]</a> 
-Barman, M. P., Awekar, A., & Kothari, S. (2019, July). Decoding the style and bias of song lyrics. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1165-1168).__
+Barman, M. P., Awekar, A., & Kothari, S. (2019, July). Decoding the style and bias of song lyrics. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1165-1168).
+
 <a id="2">[2]</a>
-Fell, M., & Sporleder, C. (2014, August). Lyrics-based analysis and classification of music. In Proceedings of COLING 2014, the 25th international conference on computational linguistics: Technical papers (pp. 620-631).__
+Fell, M., & Sporleder, C. (2014, August). Lyrics-based analysis and classification of music. In Proceedings of COLING 2014, the 25th international conference on computational linguistics: Technical papers (pp. 620-631).
+
 <a id="3">[3]</a>
-Wendlandt, L., Kummerfeld, J. K., & Mihalcea, R. (2018). Factors influencing the surprising instability of word embeddings. arXiv preprint arXiv:1804.09692.__
+Wendlandt, L., Kummerfeld, J. K., & Mihalcea, R. (2018). Factors influencing the surprising instability of word embeddings. arXiv preprint arXiv:1804.09692.
+
 <a id="4">[4]</a>
-Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. (1998). Measuring individual differences in implicit cognition: the implicit association test. Journal of personality and social psychology, 74(6), 1464.__
+Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. (1998). Measuring individual differences in implicit cognition: the implicit association test. Journal of personality and social psychology, 74(6), 1464.
+
 <a id="5">[5]</a>
 Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186.
