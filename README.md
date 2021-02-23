@@ -32,7 +32,9 @@ We performed experiments using four publicly available real-world datasets. Thes
 **Effect of hyperparameter on stability of WEMs**
 
 _Frequency_Stability.ipynb_: This file contains the code to analyze the effect of frequency on stability of WEMs.
+
 _Dimension_Stability.ipynb_: This file contains the code to analyze the effect of dimension on stability of WEMs.
+
 _Context Window Size_Training Epochs_Stability.ipynb_: This file contains the code to analyze the effect of context window size and number of training epochs on stability of WEMs.
 
 **Effect of stability on downstream tasks**
